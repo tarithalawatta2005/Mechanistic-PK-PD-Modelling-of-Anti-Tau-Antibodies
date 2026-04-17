@@ -87,6 +87,7 @@ $$[\text{Tau}_{ISF}]_{ss} = \frac{k_{in}}{Q_{bulk}}$$
 - **Result:** The calibrated model yields a soluble tau monomer concentration of **27.0 pM** (0.027 pmol/mL) within the CSF/ISF [4]
 - **Clinical correlation:** This output serves as the "Healthy Baseline" validation, aligning with human preclinical benchmarks established in the Merck PBPK-PD framework [4]
 
+![model in MATLAB:](healthy_tau_level.png)
 ---
 
 ## Phase 2: Pharmacokinetics(PK) of Anti-Tau Antibodies
